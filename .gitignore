@@ -1,0 +1,17 @@
+node_modules/
+.next/
+.env
+.env.*
+!.env.example
+/uploads/*
+!/uploads/.gitkeep
+/work/
+dev.db
+dev.db-*
+/prisma/dev.db
+/prisma/dev.db-journal
+/tsconfig.tsbuildinfo
+/check-upload.mts
+/inspect-db.mts
+/make-test-user.mts
+/upload-fixture.jpg
