@@ -1,3 +1,8 @@
 This is just a prototype with a lot of promising future updates that may come if this project gets approved.
 Imagine pinterest but just for your outfits. Try on your favourite fashion creator's outfit virtually with AI.
-Multiple users. Creator support. Unilimited Fashion
+Your complete wardrobe companion. 
+Get recommendations on what to buy next. Creator support. Unlimited Fashion.
+Formal or informal, bleak or blue, we got you.
+App name: Wear + AI = wAIr = WAIR
+Creative Dev: aswinkumaraaa
+Technical Dev: GIRIDHAR00007
